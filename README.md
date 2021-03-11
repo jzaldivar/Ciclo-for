@@ -1,2 +1,3 @@
-# Ciclo-for
-Estructura cíclica for
+# Algoritmos y Programación
+
+Estructura cíclica `for`
